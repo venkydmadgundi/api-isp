@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  lowest_price: 1
+  rating: 9.99
+  max_speed: MyText
+  description: MyText
+  contact_no: MyText
+  email: MyText
+  image: MyText
+  url: MyText
+
+two:
+  name: MyText
+  lowest_price: 1
+  rating: 9.99
+  max_speed: MyText
+  description: MyText
+  contact_no: MyText
+  email: MyText
+  image: MyText
+  url: MyText
