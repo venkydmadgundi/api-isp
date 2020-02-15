@@ -4,6 +4,8 @@ class ProvidersController < ApplicationController
   # GET /providers
   def index
     @providers = Provider.all
+    @providers.inspect
+
 
     render json: @providers
   end
